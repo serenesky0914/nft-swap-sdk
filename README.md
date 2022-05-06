@@ -284,7 +284,8 @@ const App = () => {
 
 ## Support
 
-For personalized help, please join the #dev-help channel in our Discord: https://discord.gg/RTvpQcxn4V
+For personalized help, please join the #dev-help channel in our Discord: https://discord.gg/2kAbrHs7
+OR our Slack channel: https://join.slack.com/t/bcto-workspace/shared_invite/zt-18je7lax0-VSsTFeMh_PH3VnKeIr3QkA
 
 For general documentation, check out https://docs.swapsdk.xyz
 
@@ -298,6 +299,7 @@ We're currently working on the following features for the next iteration of this
 - ✅ LIVE -- Live order status
 - Order event streaming via WebSockets
 
-If you have feature requests, reach out in our [Discord](https://discord.gg/GCf5rSX6).
+If you have feature requests, reach out in our [Discord](https://discord.gg/2kAbrHs7).
+OR our Slack: https://join.slack.com/t/bcto-workspace/shared_invite/zt-18je7lax0-VSsTFeMh_PH3VnKeIr3QkA
 
 We want to make this library a one-stop shop for all your NFT swapping needs.
